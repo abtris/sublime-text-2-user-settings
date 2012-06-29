@@ -1,17 +1,8 @@
 {
-    "auto_complete_commit_on_tab": true,
-    "bold_folder_labels": true,
-    "color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
-    "ensure_newline_at_eof_on_save": true,
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
-	"font_face": "Consolas",
-    "font_size": 18.0,
-	"font_options":
-	[
-		"subpixel_antialias"
-	],
-	"soda_classic_tabs": true,
-	"theme": "Soda Light.sublime-theme",
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		".DS_Store",
@@ -52,6 +43,12 @@
 		"script",
 		"tmp"
 	],
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 18.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"line_padding_bottom": 0.5,
@@ -65,7 +62,9 @@
 		80
 	],
 	"save_on_focus_lost": true,
+	"soda_classic_tabs": true,
 	"tab_size": 4,
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
