@@ -2,10 +2,13 @@
 	"auto_upgrade_last_run": 1340977638,
 	"installed_packages":
 	[
+		"Abacus",
 		"Additional PHP Snippets",
 		"Clipboard History",
 		"CoffeeScript",
+		"CTags",
 		"Dart",
+		"DetectSyntax",
 		"DocBlockr",
 		"Gist",
 		"Git",
@@ -15,6 +18,9 @@
 		"Nodejs",
 		"Package Control",
 		"PHPUnit",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit",
 		"sublime-closure-linter",
 		"SublimeCodeIntel",
 		"sublimelint",
