@@ -1,0 +1,27 @@
+{
+	"auto_upgrade_last_run": 1340977638,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Clipboard History",
+		"CoffeeScript",
+		"Dart",
+		"DocBlockr",
+		"Gist",
+		"Git",
+		"Indent XML",
+		"Jade",
+		"Markdown Preview",
+		"Nodejs",
+		"Package Control",
+		"PHPUnit",
+		"sublime-closure-linter",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"Theme - Soda"
+	],
+	"repository_channels":
+	[
+		"http://sublime.wbond.net/repositories.json"
+	]
+}

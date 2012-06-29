@@ -1,0 +1,4 @@
+{
+	"cmd": ["phpunit", "$file"],	
+	"selector": "source.php"
+}
