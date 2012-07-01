@@ -1,5 +1,5 @@
 {
-	"auto_complete_commit_on_tab": true,
+	"auto_complete_commit_on_tab": false,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
@@ -57,6 +57,10 @@
 	{
 		"show_minimap": false
 	},
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"rulers":
 	[
 		80
