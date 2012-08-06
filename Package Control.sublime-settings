@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1342614372,
+	"auto_upgrade_last_run": 1344258680,
 	"installed_packages":
 	[
 		"Abacus",
@@ -15,6 +15,7 @@
 		"Indent XML",
 		"Jade",
 		"Markdown Preview",
+		"Marked.app Menu",
 		"Nodejs",
 		"Package Control",
 		"PHPUnit",
