@@ -1,4 +1,5 @@
 {
-	"cmd": ["php", "$file"],	
-	"selector": "source.php"
+	"cmd": ["php", "$file"],
+	"selector": "source.php",
+  "target": "exec_in_window"
 }

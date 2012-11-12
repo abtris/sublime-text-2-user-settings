@@ -1,22 +1,27 @@
 {
-	"auto_upgrade_last_run": 1344258680,
+	"auto_upgrade_last_run": 1352723945,
 	"installed_packages":
 	[
 		"Abacus",
 		"Additional PHP Snippets",
+		"AngularJS",
 		"Clipboard History",
 		"CoffeeScript",
 		"CTags",
 		"Dart",
 		"DetectSyntax",
 		"DocBlockr",
+		"Edit History",
+		"Element Finder",
+		"Find Function Definiton",
 		"Gist",
-		"Git",
+		"HTML Export",
 		"Indent XML",
 		"Jade",
 		"Markdown Preview",
 		"Marked.app Menu",
 		"Nodejs",
+		"Open Related",
 		"Package Control",
 		"PHPUnit",
 		"SCSS",
@@ -26,7 +31,9 @@
 		"sublime-closure-linter",
 		"SublimeCodeIntel",
 		"sublimelint",
-		"Theme - Soda"
+		"Theme - Aqua",
+		"Theme - Soda",
+		"ZenCoding"
 	],
 	"repository_channels":
 	[
